@@ -1,0 +1,4 @@
+node_modules
+server.zip
+config/dev.js
+.vercel
